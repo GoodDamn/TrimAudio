@@ -1,0 +1,3 @@
+include ':trim'
+include ':app'
+rootProject.name = "TrimAudio"
